@@ -1,0 +1,20 @@
+{
+  "name": "brand-slider",
+  "version": "0.1.0",
+  "author": "Aaron Lumsden <aaronlumsden@me.com>",
+  "devDependencies": {}, 
+  "repository" :
+      { "type" : "git", 
+       "url" : "https://aarondo@bitbucket.org/aarondo/grunt-template.git"
+      },
+  "dependencies": {
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.11.0",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-imagemin": "^0.9.2",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-htmlclean": "^2.2.3"
+  }
+}
